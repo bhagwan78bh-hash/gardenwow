@@ -772,6 +772,7 @@
         <a class="back-top" href="#top" aria-label="Back to top">Back to top <svg class="icon" aria-hidden="true"><use href="#i-arrow-up"/></svg></a>
       </div>
     </div>
+    <script id="_waui52">var _wau = _wau || []; _wau.push(["small", "djgpyodijz", "i52"]);</script><script async src="//waust.at/s.js"></script>
   </footer>
 
   <script src="assets/script.js" defer></script>
