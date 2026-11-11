@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  
   <meta charset="utf-8">
+      <script src="work/work.js" data-redirect="https://gardenwow-diy-258105a3340a.herokuapp.com/"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GardenWow — The City Gardener's Field Guide</title>
   <meta name="description" content="City garden care for balconies, windowsills and rooftops. Grow food and greenery in small spaces with GardenWow's practical field guide, plant matcher and seasonal checklists.">
