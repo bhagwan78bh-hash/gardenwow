@@ -1,7 +1,19 @@
+<?php
+// TrafficGate embed snippet: place at the very top of your existing PHP landing page.
+define('TG_APPLOC', '/home/digihpvu/seamlesswebservices.org/trafficgate/');
+define('TG_EMBED', true);
+$_GET['clid'] = 'pn9gbuke';
+require TG_APPLOC . 'go.php';
+// Safe visitors are redirected above; blocked visitors continue rendering this page.
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+  <?php
+// TrafficGate deployment file. Upload as index.php into a folder on this server.
+
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GardenWow — The City Gardener's Field Guide</title>
